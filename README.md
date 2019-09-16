@@ -3,7 +3,7 @@ jQuery plugin to set size of font to fit the surrounding element.
 
 # usage
 	$elem.fit_font({multiline: false});
-or
+	// or
 	$elem.fit_font({height: 60});
 	
 # defaults
