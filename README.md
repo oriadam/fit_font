@@ -2,6 +2,9 @@
 jQuery plugin to set size of font to fit the surrounding element.
 
 # usage
+	$elem.fit_font();
+	
+# defaults
 	$elem.fit_font({
 		ignore: false, // false (default) or 'width' or 'height'
 		max: 2, // max font size value
