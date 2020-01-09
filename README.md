@@ -1,6 +1,9 @@
 # jquery.fit_font
 jQuery plugin to set size of font to fit the surrounding element.
 
+# example
+https://codepen.io/oriadam/pen/ZEYxeZw
+
 # usage
 	$elem.fit_font({multiline: false});
 	// or
